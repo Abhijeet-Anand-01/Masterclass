@@ -1,7 +1,7 @@
 <h1>Solutions<hr></h1><br>
-│── Java Programming Masterclass covering Java 11 & Java 17<br>
-│ &nbsp&nbsp&nbsp&nbsp │── Order summary card<br>
-│ &nbsp&nbsp&nbsp&nbsp │── Link - https://abhijeet-anand-01.github.io/Frontend-Mentor/Order%20summary%20card/<br>
+│── <b>Java Programming Masterclass covering Java 11 & Java 17</b><br>
+│ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 1: Speed Converter<br>
+│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%201:%20Speed%20Converter.java">Click Here!</a><br>
 │ &nbsp&nbsp&nbsp&nbsp │<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Stats preview card<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Link - https://abhijeet-anand-01.github.io/Frontend-Mentor/Stats%20preview%20card/<br>
