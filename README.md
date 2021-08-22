@@ -17,3 +17,6 @@
 │ &nbsp&nbsp&nbsp&nbsp │<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 6: Equal Sum Checker<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%206:%20Equal%20Sum%20Checker.java">Click Here!</a><br>
+│ &nbsp&nbsp&nbsp&nbsp │<br>
+│ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 7: Teen Number Checker<br>
+│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%207:%20Teen%20Number%20Checker.java">Click Here!</a><br>
