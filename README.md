@@ -1,7 +1,7 @@
 <h1>Solutions<hr></h1><br>
 │── <b>Java Programming Masterclass covering Java 11 & Java 17</b><br>
 │ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 1: Speed Converter<br>
-│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%201:%20Speed%20Converter.java">Click Here!</a><br>
+│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/My-learnings/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%201_%20Speed%20Converter.java">Click Here!</a><br>
 │ &nbsp&nbsp&nbsp&nbsp │<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 2: MegaBytes Converter<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%202:%20MegaBytes%20Converter.java">Click Here!</a><br>
