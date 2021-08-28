@@ -22,7 +22,7 @@
 │ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/My-learnings/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%207_%20Teen%20Number%20Checker.java">Click Here!</a><br>
 │ &nbsp&nbsp&nbsp&nbsp │<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 8: Area Calculator<br>
-│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%208:%20Area%20Calculator.java">Click Here!</a><br>
+│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/My-learnings/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%208_%20Area%20Calculator.java">Click Here!</a><br>
 │ &nbsp&nbsp&nbsp&nbsp │<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 9: Minutes To Years and Days Calculator<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/Masterclass/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%209:%20Minutes%20To%20Years%20and%20Days%20Calculator.java">Click Here!</a><br>
