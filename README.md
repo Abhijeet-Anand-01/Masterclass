@@ -38,3 +38,6 @@
 │ &nbsp&nbsp&nbsp&nbsp │<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 13: Number Of Days In Month<br>
 │ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/My-learnings/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%2013_%20Number%20Of%20Days%20In%20Month.java">Click Here!</a><br>
+│ &nbsp&nbsp&nbsp&nbsp │<br>
+│ &nbsp&nbsp&nbsp&nbsp │── Coding Exercise 14: Sum Odd<br>
+│ &nbsp&nbsp&nbsp&nbsp │── Solution Link - <a href="https://github.com/Abhijeet-Anand-01/My-learnings/blob/master/Java%20Programming%20Masterclass%20covering%20Java%2011%20%26%20Java%2017/Coding%20Exercise%2014_%20Sum%20Odd.java">Click Here!</a><br>
